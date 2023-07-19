@@ -40,7 +40,7 @@ Esto sugiere que el acceso a los servicios ha mejorado con el tiempo, y existe u
 + El promedio de ingresos ha aumentado de manera constante desde 2014 hasta 2022, con un pico en el tercer trimestre de 2020. A pertir de 2021 se aprecia un mayor crecimiento, posiblemente debido al aumento de la inflación.
 
 
- ***El EDA en google colab se puede obtener [Aquí](https://colab.research.google.com/drive/18Jq2qnVS4IXi1V2HVvI_YxVdVt8dHVLS?usp=sharing)***
+ ***El EDA en google colab se puede obtener [Aquí](https://colab.research.google.com/drive/1nEhxXyIXpWzYzUoB9OFv81JiLDFO0bIB?usp=sharing)***
 
 ## KPIs
 
