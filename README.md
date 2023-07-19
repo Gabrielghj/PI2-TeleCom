@@ -50,7 +50,7 @@ Esto sugiere que el acceso a los servicios ha mejorado con el tiempo, y existe u
 + Acceso a internet por cada 100 habitantes (meta de incremento del 5% anual)     
                     
 
-***Link de descarga dashboard: [Aquí](https://colab.research.google.com/drive/18Jq2qnVS4IXi1V2HVvI_YxVdVt8dHVLS?usp=sharing)***
+***Link de descarga dashboard: [Aquí](https://drive.google.com/file/d/1LU_i2-V_FfX8RA1ZH6Bu9O009Cn8KeSy/view?usp=sharing)***
 
 ## CONCLUSIONES
 + Si bien no hay diferencias entre las distintas provincias en el acceso a tecnología, se observa que en las provincias de Catamarca, Tucumán, Buenos Aires, Mendoza y LaPampa un mayor desarrollo de la Ibra optica. Estos sin duda representan los nichos a los cuales se debe poner especial énfasis; sin descuidar las restantes pues en su mayoria representan mercados potenciales.
