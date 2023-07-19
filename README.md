@@ -5,7 +5,7 @@
 
 
 ## Descripción del proyecto
-El proyecto individual de Data Analyst se basa en datos obtenidos de la fuente pública ENACOM, proporcionada por el gobierno argentino, y se centra en el sector de las telecomunicaciones, específicamente en el acceso a internet. El objetivo principal es analizar y visualizar la evolución y las tendencias relacionadas con el acceso a internet en Argentina a lo largo de los años.
+El proyecto individual de Data Analyst se basa en datos obtenidos de la fuente pública [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/), proporcionada por el gobierno argentino, y se centra en el sector de las telecomunicaciones, específicamente en el acceso a internet. El objetivo principal es analizar y visualizar la evolución y las tendencias relacionadas con el acceso a internet en Argentina a lo largo de los años.
 
 Para ello, se utilizarán los datos disponibles, que incluyen información sobre el tipo de tecnologías utilizadas para el acceso a internet, como ADSL, cablemódem, fibra óptica, inalámbrico y otros. Además, se cuenta con datos sobre los ingresos generados en el sector de las telecomunicaciones en relación con el acceso a internet.
 
